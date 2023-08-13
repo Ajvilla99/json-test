@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "admin",
+      "email": "admin@admin.com",
+      "password": "admin123",
+      "id": "3958c717-76c6-4536-ac9f-4f8bb9c75dca"
+    }
+  ],
+  "categories": [
+    {
+      "name": "star wars",
+      "id": "8e802712-57e1-4e2c-befe-95764e863d83"
+    },
+    {
+      "name": "ropa",
+      "id": "6209dcc7-be7d-4b8b-9095-83ac9042cb34"
+    },
+    {
+      "name": "consolas",
+      "id": "1e899142-9429-44a8-9a01-2f6abe7254c9"
+    }
+  ],
+  "products": []
+}
